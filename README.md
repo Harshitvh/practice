@@ -1,2 +1,3 @@
 # practice
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+All the java leetcode question that were solved
